@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.superpowers/
+*.tgz
+.env
+.env.local
+.mcp.json
